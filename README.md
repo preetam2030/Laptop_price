@@ -1,1 +1,2 @@
- ##Deployment of Laptop Price predictorhttps://laptop-price-wl8m.onrender.com
+## Laptop Price Predictor
+https://laptop-price-wl8m.onrender.com
